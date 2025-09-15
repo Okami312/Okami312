@@ -1,6 +1,8 @@
 # 👋 Hi, I’m Okami312  
 
-# 🚀 Aspiring **Front-End Developer** | 🖥️ Linux Enthusiast | 🔐 Cybersecurity Curious
+# 🚀 Aspiring **Front-End Developer** 
+# 🖥️ Linux Enthusiast
+# 🔐 Cybersecurity Curious
 
 ## 🔧 Technologies & Tools
 JavaScript, React, TypeScript, TailwindCSS, Next.js, Node.js, Linux  
