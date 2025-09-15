@@ -6,9 +6,9 @@
 JavaScript, React, TypeScript, TailwindCSS, Next.js, Node.js, Linux  
 ## 📌 Featured Projects  
 ...
+
 ## 💬 Let’s Connect  
 LinkedIn: https://www.linkedin.com/in/laurentiu-baltag-37350513b/  
-[![LinkedIn](https://www.linkedin.com/in/laurentiu-baltag-37350513b/)]
 Email: baltaglaurentiu99@gmail.com  
 
 ## ⚡ Fun Status  
