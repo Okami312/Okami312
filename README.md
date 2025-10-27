@@ -13,6 +13,9 @@ LinkedIn: https://www.linkedin.com/in/laurentiu-baltag-37350513b/
 Email: baltaglaurentiu99@gmail.com  
 
 ## ⚡ Fun Status  
+
 System Check: Front-end Dev in progress...
+
 Error: Sleep not found
+
 Warning: Too much coffee detected
