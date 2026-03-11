@@ -4,7 +4,7 @@
 
 ## 🔧 Technologies & Tools
 
-JavaScript, React, TypeScript, TailwindCSS![TailwindCSS](./assets/my-image.svg), NextJS![Next.js](./imgs/nextjs-svgrepo-com.svg), Node.js![Node.js](./imgs/workflow.svg), 🐧 Linux
+JavaScript![Alt text](./imgs/javascript-svgrepo-com.png), React, TypeScript, TailwindCSS, NextJS, Node.js, 🐧 Linux
 
 ## 📌 Featured Projects
 
