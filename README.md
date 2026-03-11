@@ -20,9 +20,9 @@
 ## `$ cat /etc/tech-stack`
 
 ```bash
-LANGUAGES   = [ JavaScript, TypeScript ]
+LANGUAGES   = [ JavaScript, TypeScript, Python ]
 FRAMEWORKS  = [ React, Next.js, Node.js ]
-STYLING     = [ TailwindCSS ]
+STYLING     = [ TailwindCSS, CSS ]
 OS          = [ Linux ]  # btw
 ```
 
@@ -32,7 +32,9 @@ OS          = [ Linux ]  # btw
 
 ```
 drwxr-xr-x  featured/
-├── 🔗 dictionary-web-app     → https://okami312.github.io/dictionary-web-app/
+├── 🔗 dictionary-web-app => https://okami312.github.io/dictionary-web-app/
+├── 🔗 financial-dashboard => https://financial-dashboard-omega-weld.vercel.app/
+├── 🔗 advice-generator => https://okami312.github.io/advice-generator/
 ```
 
 ---
