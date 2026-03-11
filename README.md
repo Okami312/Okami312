@@ -42,9 +42,9 @@ drwxr-xr-x  featured/
 ## `$ cat ~/.social`
 
 ```yaml
-linkedin: https://www.linkedin.com/in/laurentiu-baltag-37350513b/
+linkedin: https://www.linkedin.com/in/laurentiu-baltag-frontend-developer/
 email: baltaglaurentiu99@gmail.com
-github: github.com/Okami312
+discord: okami312
 ```
 
 ---
