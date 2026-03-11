@@ -3,7 +3,7 @@
 # 🚀 Aspiring **Front-End Developer** | 🖥️ Linux Enthusiast | 🔐 Cybersecurity Curious
 
 ## 🔧 Technologies & Tools
-JavaScript, React, TypeScript, TailwindCSS, Next.js, Node.js, Linux  
+JavaScript, React, TypeScript, TailwindCSS, Next.js, Node.js, 🐧 Linux  
 
 ## 📌 Featured Projects  
 https://okami312.github.io/dictionary-web-app/
