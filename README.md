@@ -1,24 +1,80 @@
-# 👋 Hi, I’m Okami312
+```
+ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗██╗██████╗ ██████╗  ██╗██████╗
+██╔═══██╗██║ ██╔╝██╔══██╗████╗ ████║██║╚════██╗╚════██╗███║╚════██╗
+██║   ██║█████╔╝ ███████║██╔████╔██║██║ █████╔╝ █████╔╝╚██║ █████╔╝
+██║   ██║██╔═██╗ ██╔══██║██║╚██╔╝██║██║ ╚═══██╗ ╚═══██╗ ██║██╔═══╝
+╚██████╔╝██║  ██╗██║  ██║██║ ╚═╝ ██║██║██████╔╝██████╔╝ ██║███████╗
+ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═════╝ ╚═════╝  ╚═╝╚══════╝
+```
 
-# 🚀 Aspiring **Front-End Developer** | 🖥️ Linux Enthusiast | 🔐 Cybersecurity Curious
+```
+> whoami
+  Aspiring Front-End Developer | Linux Enthusiast | Cybersecurity Curious
 
-## 🔧 Technologies & Tools
+> uname -a
+  Human v1.0 | Bucharest, RO | Running on caffeine & curiosity
+```
 
-JavaScript, React, TypeScript, TailwindCSS, NextJS, Node.js, 🐧 Linux
+---
 
-## 📌 Featured Projects
+## `$ cat /etc/tech-stack`
 
-https://okami312.github.io/dictionary-web-app/
+```bash
+LANGUAGES   = [ JavaScript, TypeScript ]
+FRAMEWORKS  = [ React, Next.js, Node.js ]
+STYLING     = [ TailwindCSS ]
+OS          = [ Linux ]  # btw
+```
 
-## 💬 Let’s Connect
+---
 
-LinkedIn: https://www.linkedin.com/in/laurentiu-baltag-37350513b/  
-Email: baltaglaurentiu99@gmail.com
+## `$ ls -la ~/projects/`
 
-## ⚡ Fun Status
+```
+drwxr-xr-x  featured/
+├── 🔗 dictionary-web-app     → https://okami312.github.io/dictionary-web-app/
+```
 
-System Check: Front-end Dev in progress...
+---
 
-Error: Sleep not found
+## `$ cat ~/.social`
 
-Warning: Too much coffee detected
+```yaml
+linkedin: https://www.linkedin.com/in/laurentiu-baltag-37350513b/
+email: baltaglaurentiu99@gmail.com
+github: github.com/Okami312
+```
+
+---
+
+## `$ systemctl status okami312`
+
+```
+● okami312.service — Front-End Developer in Progress
+   Loaded: loaded (/usr/lib/systemd/okami312.service)
+   Active: ◉ active (running) since forever
+     Docs: man:coffee(1) man:stackoverflow(1)
+
+[  INFO  ] Learning new things..................... OK
+[  INFO  ] Building projects...................... OK
+[ WARNING] Sleep not found........................ WARN
+[  ERROR ] Too much coffee detected............... ERR
+[  INFO  ] Still running anyway................... OK
+```
+
+---
+
+## `$ ping okami312`
+
+```
+PING okami312 — feel free to reach out!
+
+64 bytes from okami312: Open to collaborations, freelance, and cool ideas.
+64 bytes from okami312: Learning in public. Breaking things. Fixing them.
+64 bytes from okami312: Always curious. Always building.
+
+--- okami312 ping statistics ---
+Packets transmitted: ∞ | Received: ∞ | Packet loss: 0%
+```
+
+---
